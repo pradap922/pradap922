@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋 I'm Pradap Rajendhran</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Data Analytics Learner</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Pradap%20Rajendhran&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E6FF&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Enthusiast;Data+Analytics+Learner;Building+Smart+Solutions"/>
+</p>
+
+---
+
+## 🧠 About Me
+- 💻 Python Developer | AI / ML Enthusiast  
+- 📊 Strong interest in **Data Analytics & Forecasting**  
+- 🚀 Building real-world intelligent systems  
+- 🇮🇳 India  
 
 ---
 
@@ -7,15 +22,9 @@
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="60"/><br>Android
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="60"/><br>Ubuntu
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/><br>Linux
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="60"/><br><b>Android</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="60"/><br><b>Ubuntu</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/><br><b>Linux</b></td>
 </tr>
 </table>
 
@@ -25,24 +34,12 @@
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/><br>HTML
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/><br>C
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/><br>C++
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Python
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/><br>PHP
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/><br>Java
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/><br>C</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br>C++</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55"/><br>PHP</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/><br>Java</td>
 </tr>
 </table>
 
@@ -52,62 +49,59 @@
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Pandas
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/><br>NumPy
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/><br>Jupyter
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib
-</td>
-<td align="center" width="120">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/><br>Pandas</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/><br>NumPy</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/><br>Jupyter</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/><br>MySQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55"/><br>Matplotlib</td>
+<td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/><br>Seaborn</td>
 </tr>
 </table>
 
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **SMART-CROP-PLANNER** – AI-based soil & crop recommendation  
-- 🔹 **DEMANDIQ** – Retail demand forecasting system  
-- 🔹 **Fuel Management System** – Offline management solution  
+- 🌾 **SMART-CROP-PLANNER** – AI soil & crop recommendation  
+- 📦 **DEMANDIQ** – Retail demand forecasting system  
+- ⛽ **Fuel Management System** – Offline management app  
 
 ⬇️ *Check pinned repositories below*
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📈 GitHub Stats (Glowing Cyber Theme)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pradap922&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradap922&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradap922&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradap922&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Activity Graph
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradap922&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/pradap922/pradap922/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/pradap-rajendhran  
-- 📧 Email: your-email@gmail.com  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pradap-rajendhran">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ *“Code. Analyze. Improve. Repeat.”*
+<p align="center">
+⭐ <b>“Learn fast. Build smart. Stay curious.”</b>
+</p>
