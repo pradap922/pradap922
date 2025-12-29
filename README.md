@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi 👋 I’m Pradap Rajendhran
+Python Developer | AI/ML Enthusiast
+### 🔧 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
+![Pradap’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pradap922)
 
 <!--
 **pradap922/pradap922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
